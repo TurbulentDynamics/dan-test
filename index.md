@@ -25,17 +25,19 @@ Note: The letters DIS after a name below indicate that the airman survived the i
 | **Killed**       
 | **Other** 
 | **Pilot/Crew/Passengers**
-|
-| September 3, 1939                                                                                                                                                  
+| - | - | - | - | - | - | - | - | - | - | - |
+| September 3, 1939
 | Short S.25 Sunderland I
-| L2158                                                                                                                                    
-| none         
-| RAF          
-| MAEE                                           
-| Dublin            
-| Skerries                         
-| 0                
+| L2158 
+| none
+| RAF 
+| MAEE 
+| Dublin 
+| Skerries 
+| 0 
 | -
-| S/Ldr Montague Cecil COLLINS 24124 Crew not yet determined                                                                                                      
+| S/Ldr Montague Cecil COLLINS 24124 Crew not yet determined 
 |
+
+
 
