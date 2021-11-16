@@ -14,18 +14,7 @@ Note: The letters DIS after a name below indicate that the airman survived the i
 
 
 
-| **Date/Format**
-| **Aircraft**
-| **Identity**
-| **Markings** 
-| **Operator** 
-| **Unit**                                      
-| **County (Near)** 
-| **Location**                     
-| **Killed**       
-| **Other** 
-| **Pilot/Crew/Passengers**
-|
+| **Date/Format** | **Aircraft** | **Identity** | **Markings** | **Operator** | **Unit** | **County (Near)** | **Location** | **Killed** | **Other** | **Pilot/Crew/Passengers** |
 | September 3, 1939                                                                                                                                                  
 | Short S.25 Sunderland I
 | L2158                                                                                                                                    
