@@ -17,7 +17,10 @@ Note: The letters DIS after a name below indicate that the airman survived the i
 | b 
 | c 
 |
-| - | - | - |
+| - 
+| - 
+| - 
+|
 | 1 
 | 2 
 | 3 
