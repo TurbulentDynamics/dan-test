@@ -8,15 +8,17 @@ import pandas as pd
 
 
 
-df = pd.read_csv (r'crashes.csv', encoding = "ISO-8859-1", converters={'Pilot/Crew/Passengers':lambda x:x.replace('<br>/n','££££')})
-s = df.iloc[:,:11]
+df = pd.read_csv (r'crashes.csv', encoding = "ISO-8859-1")
+s = df.iloc[:,:12]
 print(s[:8])
 
 s['Pilot/Crew/Passengers'].replace('<br>\n', '<br>', inplace=True, regex=True)
 s['Pilot/Crew/Passengers'].replace('\n', '<br>', inplace=True, regex=True)
+
 s['Location'].replace('\n', ' ', inplace=True, regex=True)
 
-
+s['Notes/Sources'].replace('<br>\n', '<br>', inplace=True, regex=True)
+s['Notes/Sources'].replace('\n', '<br>', inplace=True, regex=True)
 
 print(s[:8])
 
